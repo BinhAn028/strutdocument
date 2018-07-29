@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/5835910/how-to-integrate-an-old-struts-application-with-spring-3-x
+
+https://www.mkyong.com/struts/struts-spring-integration-example/
+
+https://www.roseindia.net/struts/hibernate-spring/
